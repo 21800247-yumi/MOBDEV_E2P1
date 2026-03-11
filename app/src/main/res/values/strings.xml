@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOBDEV_E2P1</string>
+    <string name="student_name">Naomi Kysha Magbutay</string>
+    <string name="logo_description">Company logo</string>
+    <string name="profile_description">User profile picture</string>
+    <string name="qr_code_description">QR code for user identification</string>
+    <string name="student_id">ID:21800247</string>
+    <string name="dept">DCISM</string>
+</resources>
